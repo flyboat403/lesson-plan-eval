@@ -32,17 +32,12 @@
 ```
 教案评估/
 ├── SKILL.md                          # 核心评估规则（Agent 触发加载）
-├── AGENTS.md                         # 项目上下文说明
 ├── README.md                         # 项目说明文档
-├── references/                       # 渐进式披露参考资料
-│   ├── scoring-standard.md           # 评分细则与扣分计算
-│   ├── output-template.md            # 报告输出格式模板
-│   ├── faq.md                        # 常见问题处理
-│   └── sample-conversation.md        # 示例对话
-└── test/                             # 测试用例
-    ├── 发现自我教案.docx              # 心理健康与职业生涯
-    ├── 汽油发动机工作原理教案.docx    # 汽车发动机构造与维修（专业课）
-    └── create_report.js              # DOCX 报告生成脚本
+└── references/                       # 渐进式披露参考资料
+    ├── scoring-standard.md           # 评分细则与扣分计算
+    ├── output-template.md            # 报告输出格式模板
+    ├── faq.md                        # 常见问题处理
+    └── sample-conversation.md        # 示例对话
 ```
 
 ## 🚀 安装
